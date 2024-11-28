@@ -307,5 +307,9 @@
         "vc",
         "void",
         "coin"
+    ],
+    "new_keyword": [
+        "example1",
+        "example2"
     ]
 }
