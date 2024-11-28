@@ -186,7 +186,8 @@
         "thank",
         "send<space>glitch",
         "doing",
-        "jester?"
+        "jester?",
+        "new_disallowed_key"
     ],
     "allowedJ": [
         "jester",
